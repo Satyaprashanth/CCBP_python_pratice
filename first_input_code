@@ -1,0 +1,5 @@
+## This will print Hello plus name of the input 
+
+name = input()
+
+print("Hello " + name)
